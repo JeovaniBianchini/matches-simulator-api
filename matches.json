@@ -8,12 +8,12 @@
     "mandante": {
       "nome": "Lakers",
       "forca": 5,
-      "imagem": "TODO"
+      "imagem": "https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/03/1920px-los_angeles_lakers_logo-svg_-300x186.png"
     },
     "visitante": {
       "nome": "Miami Heat",
       "forca": 5,
-      "imagem": "TODO"
+      "imagem": "https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/03/1024px-miami_heat_logo-svg_-300x414.png"
     }
   }
 ]
