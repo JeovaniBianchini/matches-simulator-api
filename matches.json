@@ -1,0 +1,19 @@
+[
+  {
+    "descricao": "Finais da NBA",
+    "local": {
+      "nome": "Staples Center",
+      "imagem": "TODO"
+    },
+    "mandante": {
+      "nome": "Lakers",
+      "forca": 5,
+      "imagem": "TODO"
+    },
+    "visitante": {
+      "nome": "Miami Heat",
+      "forca": 5,
+      "imagem": "TODO"
+    }
+  }
+]
