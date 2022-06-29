@@ -6,14 +6,71 @@
       "imagem": "https://e0.365dm.com/21/05/768x432/skysports-staples-center-los-angeles-lakers_5397360.jpg?20210528053405"
     },
     "mandante": {
-      "nome": "Lakers",
+      "nome": "Los Angeles Lakers",
       "forca": 5,
-      "imagem": "https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/03/1920px-los_angeles_lakers_logo-svg_-300x186.png"
+      "imagem": "https://1757140519.rsc.cdn77.org/blog/wp-content/uploads/sites/6/2020/06/image29-1024x576.png"
     },
     "visitante": {
       "nome": "Miami Heat",
       "forca": 5,
-      "imagem": "https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/03/1024px-miami_heat_logo-svg_-300x414.png"
+      "imagem": "https://1757140519.rsc.cdn77.org/blog/wp-content/uploads/sites/6/2020/06/image7-1024x686.png"
     }
   }
+  
+  
+  {
+    "descricao": "Finais da NBA",
+    "local": {
+      "nome": "United Center",
+      "imagem": "https://v3f3j2v6.stackpathcdn.com/wp-content/uploads/2020/09/arena-united-center-chicago.png"
+    },
+    "mandante": {
+      "nome": "Chicago Bulls",
+      "forca": 5,
+      "imagem": "https://1757140519.rsc.cdn77.org/blog/wp-content/uploads/sites/6/2020/06/image11-1024x732.png"
+    },
+    "visitante": {
+      "nome": "Boston Celtics",
+      "forca": 5,
+      "imagem": "https://1757140519.rsc.cdn77.org/blog/wp-content/uploads/sites/6/2020/06/image13-1024x576.png"
+    }
+  }
+  
+  
+  {
+    "descricao": "Finais da NBA",
+    "local": {
+      "nome": "Footprint Center",
+      "imagem": "https://image.cnbcfm.com/api/v1/image/106912094-1626446661133Phoenix-Suns-Mercury-x-Footprint-jpg?v=1626463246"
+    },
+    "mandante": {
+      "nome": "Phoenix Suns",
+      "forca": 5,
+      "imagem": "https://1757140519.rsc.cdn77.org/blog/wp-content/uploads/sites/6/2020/06/image28-768x777.png"
+    },
+    "visitante": {
+      "nome": "Milwaukee Bucks",
+      "forca": 5,
+      "imagem": "https://1757140519.rsc.cdn77.org/blog/wp-content/uploads/sites/6/2020/06/image33-1024x576.png"
+    }
+  }
+
+   {
+    "descricao": "Finais da NBA",
+    "local": {
+      "nome": "Toyota Center",
+      "imagem": "https://thumbs.dreamstime.com/z/centro-houston-texas-de-toyota-imagem-a%C3%A9rea-do-zang%C3%A3o-eua-124383161.jpg"
+    },
+    "mandante": {
+      "nome": "Houston Rockets",
+      "forca": 5,
+      "imagem": "https://1757140519.rsc.cdn77.org/blog/wp-content/uploads/sites/6/2020/06/image6-1-1024x576.png"
+    },
+    "visitante": {
+      "nome": "Utah Jazz",
+      "forca": 5,
+      "imagem": "https://1757140519.rsc.cdn77.org/blog/wp-content/uploads/sites/6/2020/06/image1-3-768x559.png"
+    }
+  }
+
 ]
